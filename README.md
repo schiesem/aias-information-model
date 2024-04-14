@@ -7,14 +7,15 @@
 The presented information model allows to create a formal documentation of an AI application within an automation system.
 
 ## Motivation and Introduction
-Documentation will become more importet
+tbd.
 
 
 ## Concept and Competency Questions
-
+tbd.
 
 
 ## Ontology Design Patterns
+tbd.
 
 - [VDI3682 Formalized Process Describtion](odps/VDI3682-ODP.md)
 - [ISO22989 Artificial Intelligence Concept and Terminology](odps/ISO22989-ODP.md)
@@ -23,6 +24,11 @@ Documentation will become more importet
 [ODPs files for the project](https://github.com/schiesem/aias-information-model/tree/main/odps).
 
 ## Alignment Ontology
+tbd.
+
+| <img src="figures/figures-aias-alignment.png"  width="750" >|
+|:--:|
+| Fig. 1: Alignment Ontology of AIAS |
 
 
 ## Usage
