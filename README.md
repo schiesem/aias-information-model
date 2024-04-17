@@ -40,6 +40,12 @@ Some experiments have shown that a worn drive belt causes the upper die to oscil
 
 The sensors transmit its data to a controller via a bus network. For the analysis of this position data, an AI application was developed based on a neuronal network. The neural network was trained in a cloud and deployed to an edge device, where the inference is also done. The edge device is connected via a local area network with the controller of the stamp machine. The edge device is also connected via internet with the cloud.
 
+### Graph of the Example
+
+| <img src="figures/figures-knowledgegraph.png"  width="750" >|
+|:--:|
+| Fig. 1: Simplified representation of the graph created by the use case|
+
 ### Creating the Individuals
 Components
 
