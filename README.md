@@ -152,4 +152,20 @@ Communication
 |ISO7489:Technology|<ins>ex:https</ins>|
 
 ## How to Cite
-The AIAS information model is currently in the process of being published.
+This information model has been published in a conference paper. You can find this paper on [ResearchGate](https://www.researchgate.net/publication/384992602_A_Formal_Model_for_Artificial_Intelligence_Applications_in_Automation_Systems). You can also find a PrePrint on [arXiv](https://arxiv.org/abs/2407.03183). Feel free to contact us via ResearchGate in case you have questions about the paper.
+In case you want to use this information model in your own research, please cite as:
+```
+M. Schieseck, P. Topalis, L. Reinpold, F. Gehlhoff and A. Fay: A Formal Model for Artificial Intelligence Applications in Automation Systems. In:
+2024 IEEE 29th International Conference on Emerging Technologies and Factory Automation (ETFA). Padova, IT, 2024.
+```
+If you are using a BiBTex-file, you can copy the following:
+```
+@inProceedings{schieseck2024gml-aiaas-information-model,
+  author={Schieseck, Marvin and Topalis, Philip and Reinpold, Lasse and Gehlhoff, Felix and Fay, Alexander},
+  booktitle={2024 IEEE 29th International Conference on Emerging Technologies and Factory Automation (ETFA)},
+  title={A Formal Model for Artificial Intelligence Applications in Automation Systems},
+  address = {Padova, IT},
+  year={2024},
+  doi={10.1109/ETFA61755.2024.10710890}
+}
+```
